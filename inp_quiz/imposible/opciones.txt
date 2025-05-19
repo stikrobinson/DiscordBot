@@ -1,0 +1,11 @@
+opcion1,opcion2,opcion3,opcion4,opcionCorrecta
+Kike y Melissa,Sadhu y Axel,Issac y Giordano,Samir y Emilio,Sadhu y Axel
+Uno,Dos,Tres,Cuatro,Cuatro
+El tiempo pasa más rápido en el isekai que en el mundo real,Crrania se ubica al norte de Super-Mega,El reino del sur de Super-Mega se llama Amigardia,El reino del este de Super-Mega se llama Universo-B2,El reino del sur de Super-Mega se llama Amigardia
+Es imposible subir y bajar las escaleras tan rápido,No conviene asesinar a quien financian tu empresa,Los abogados muertos conocían al asesino,Los robots no toman agua,Es imposible subir y bajar las escaleras tan rápido
+Contentiones sunt nec vident effectus suarum actionum,Interfecerunt amicos tuos visne redire?,Si huc revertuntur numquam iterum exire possunt,Tea multas probationes circa hoc tempus posui,Tea multas probationes circa hoc tempus posui
+20/01/2022,23/01/2022,24/01/2022,26/01/2022,26/01/2022
+Creación de un sistema de alcantarillado en el reino,Creación de un sistema de ferrocarriles dentro del reino,Abastecer de armas de fuego al reino,Pavimentar las calles del reino,Creación de un sistema de alcantarillado en el reino
+Imagen A,Imagen B,Imagen C,Imagen D,Imagen B
+El color del subrayado asociado a los diálogos de Johann es azul oscuro,El color del subrayado asociado a los diálogos de Dioggo es verde claro,El color del subrayado asociado a los diálogos de Jordy es amarillo,El color del subrayado asociado a los diálogos de Emilio es amarillo,El color del subrayado asociado a los diálogos de Johann es azul oscuro
+Axel-Dioggo-Daniel-Emilio-Giordano-Issac-Sadhu-Samir-Steve-Johann-Jordy-Kike-Melissa,Axel-Dioggo-Deus-Daniel-Emilio-Giordano-Issac-Sadhu-Samir-Steve-Johann-Jordy-Kike-Melissa,Axel-Chica Music-Chica Banco-Chica Gamer-Dioggo-Daniel-Emilio-Giordano-Issac-Sadhu-Samir-Steve-Johann-Jordy-Kike-Melissa,Axel-Chica Music-Chica Banco-Chica Gamer-Dioggo-Deus-Daniel-Emilio-Giordano-Issac-Sadhu-Samir-Steve-Johann-Jordy-Kike-Melissa,Axel-Chica Music-Chica Banco-Chica Gamer-Dioggo-Daniel-Emilio-Giordano-Issac-Sadhu-Samir-Steve-Johann-Jordy-Kike-Melissa

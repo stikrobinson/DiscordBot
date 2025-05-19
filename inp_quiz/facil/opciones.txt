@@ -1,0 +1,11 @@
+opcion1,opcion2,opcion3,opcion4,opcionCorrecta
+Dioggo,Steve,Jordy,Giordano,Dioggo
+Giordano,Deus,Sadhu,Issac,Deus
+Sadhu y Johann,Samir y Emilio,Jordy y Giordano,Kike y Daniel,Jordy y Giordano
+Ronaldinho LOL,Amigardia,Universo-B2,Crrania,Crrania
+Johann,Sadhu,Daniel,Kike,Sadhu
+Una arco,Un bastón de mago,Una daga,No tiene arma especial,No tiene arma especial
+Johann,Sadhu,Daniel,Axel,Johann
+El grupo recupera la memoria,Solo algunos del grupo vuelve al mundo real,Todo el grupo vuelve al mundo real,Deus es derrotado y desaparece de la nada,Todo el grupo vuelve al mundo real
+Una guerra entre los reinos de Super-Mega,Una guerra en contra de Deus,Una guerra civil en Amigardia,Una guerra contra Crrania,Una guerra entre los reinos de Super-Mega
+Mediante tecnología de realidad virtual,Mediante un hechizo mágico,Mediante una reencarnación,Mediante un viaje por un portal,Mediante un viaje por un portal
